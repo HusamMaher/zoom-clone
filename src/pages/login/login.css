@@ -1,0 +1,11 @@
+.emailinput {
+  width: 100%;
+  position: relative;
+  height: 40px;
+}
+
+.passwordinput {
+  width: 100%;
+  position: relative;
+  height: 40px;
+}
